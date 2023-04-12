@@ -7,12 +7,16 @@
 * Models used: Linear Support Vector Machine (Linear SVC), Stochastic Gradient Descent (SGD) 
 
 * Results:
-Using Linear SVC:
+* Using Linear SVC:
+
 Accuracy on training set: 96.6%
+
 Accuracy on test set: 94.2%
 
-Using SGD:
+* Using SGD:
+
 Accuracy on training set: 98.2%
+
 Accuracy on test set: 95.5%
 
 Data: https://drive.google.com/file/d/1z6vg9JrZQwvhKnk-kNgDTUSNELYxUROo/view?usp=sharing
